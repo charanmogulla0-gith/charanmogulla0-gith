@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Charan Mogulla
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+%7C+RAG+%7C+MLOps;Building+Scalable+AI+Systems;Azure+%7C+LangChain+%7C+OpenAI" />
+</p>
+
 🚀 AI Engineer specializing in **LLM applications, RAG architectures, and scalable AI systems**  
 📍 Kansas, USA  
 
